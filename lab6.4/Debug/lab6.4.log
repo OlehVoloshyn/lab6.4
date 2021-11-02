@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\qwer\Desktop\lab AP\lab 6\lab6.4\lab6.4\Source.cpp(28): warning C4715: product: значение возвращается не при всех путях выполнения
+C:\Users\qwer\Desktop\lab AP\lab 6\lab6.4\lab6.4\Source.cpp(48): warning C4715: Number_j: значение возвращается не при всех путях выполнения
+C:\Users\qwer\Desktop\lab AP\lab 6\lab6.4\lab6.4\Source.cpp(38): warning C4715: Number_i: значение возвращается не при всех путях выполнения
+  lab6.4.vcxproj -> C:\Users\qwer\Desktop\lab AP\lab 6\lab6.4\Debug\lab6.4.exe
